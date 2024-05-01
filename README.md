@@ -144,3 +144,7 @@ nav ul a.active::before {
 4. If no student is found navigate to the list
 
 ### v8 - URL Query Params
+
+1. Add the option to show or hide profile info ocnsidering the url query params
+2. Refactor the SingleStudent.jsx file to conditionally render content
+3. Adjust the link in the StudentCard to check how changing url query params affects what the user sees.
